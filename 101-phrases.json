@@ -1,0 +1,456 @@
+{
+  "course": "101",
+  "title": "Get By Anywhere — Module 1: 30-Day Crash Course",
+  "source_language": "en",
+  "note": "One phrase a day. Written once in English. The page shows the left column in the learner's language and the right column in the language they are learning. The teammate teaches it by voice. v2: numbers on days 8 and 11 (split); 'How far' folded into directions; day 28 is one phrase; culture tips added.",
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "icon": "👋",
+      "phrase": "Hello",
+      "buildup": [
+        "Hello",
+        "Hello, good morning",
+        "Hello, good morning. How are you?"
+      ],
+      "use": "The first word out of your mouth, every time. A greeting before a question changes how people treat you.",
+      "formality": "Learn the polite version first; it works with everyone.",
+      "reply": "Hello! How are you?",
+      "culture": "In France, Italy, Spain, and Japan, greet the shopkeeper or waiter the moment you walk in. Not doing it reads as rude."
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "icon": "🙏",
+      "phrase": "Please / Thank you",
+      "buildup": [
+        "Please",
+        "Thank you",
+        "Thank you very much",
+        "Yes, please. No, thank you."
+      ],
+      "use": "Ends almost every request. 'Thank you' is the most-used phrase of your whole trip.",
+      "formality": "Always safe. Overuse it; nobody minds.",
+      "reply": "You're welcome.",
+      "culture": "In Japan and Korea a small bow goes with thank you. In France 'merci' alone can sound curt — add 'monsieur' or 'madame'."
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "icon": "✅",
+      "phrase": "Yes / No",
+      "buildup": [
+        "Yes",
+        "No",
+        "Yes, please",
+        "No, thank you"
+      ],
+      "use": "Answering the questions people ask you: Table by the window? Sparkling? Bag?",
+      "formality": "Neutral everywhere.",
+      "reply": "Okay."
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "icon": "🙋",
+      "phrase": "Excuse me",
+      "buildup": [
+        "Excuse me",
+        "Excuse me, please",
+        "Excuse me, may I ask you something?"
+      ],
+      "use": "To get a waiter's or a stranger's attention before you ask anything.",
+      "formality": "Use the polite form with strangers.",
+      "reply": "Yes? Of course.",
+      "culture": "In Japan, one word does the job of both 'excuse me' and 'sorry' — your teammate will explain which words your language uses."
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "icon": "😅",
+      "phrase": "I'm sorry",
+      "buildup": [
+        "Sorry",
+        "I'm sorry",
+        "I'm sorry, my mistake"
+      ],
+      "use": "Bumping into someone, stepping in the wrong line, spilling a coffee.",
+      "formality": "Many languages use a different word for 'sorry' (apology) than for 'excuse me' (attention). Your teammate will tell you if yours does.",
+      "reply": "No problem."
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "icon": "🗣️",
+      "phrase": "Do you speak English?",
+      "buildup": [
+        "English",
+        "Do you speak English?",
+        "Excuse me, do you speak English?"
+      ],
+      "use": "Ask this BEFORE launching into English. People help more when you asked first.",
+      "formality": "Polite form.",
+      "reply": "A little. / No, sorry.",
+      "culture": "Asking this first, in their language, is the single most respectful thing a traveler can do — even if you then switch to English."
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "icon": "🤷",
+      "phrase": "I don't understand",
+      "buildup": [
+        "I understand",
+        "I don't understand",
+        "I'm sorry, I don't understand. Slowly, please?"
+      ],
+      "use": "Buys you time and kindness. Then open the translator.",
+      "formality": "Neutral.",
+      "reply": "Okay, slowly."
+    },
+    {
+      "icon": "🔢",
+      "phrase": "Numbers 1 to 5",
+      "buildup": [
+        "One, two",
+        "One, two, three",
+        "One, two, three, four, five",
+        "A table for two. Three tickets. Five euros."
+      ],
+      "use": "Prices, tickets, tables, floors. You'll hear numbers before you say any other new phrase — learn them first.",
+      "formality": "Neutral.",
+      "reply": "(Practice: your teammate says a number in words — you say the next one.)",
+      "day": 8,
+      "week": 2
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "icon": "🚻",
+      "phrase": "Where is the bathroom?",
+      "buildup": [
+        "Where",
+        "Where is",
+        "Where is the bathroom?",
+        "Excuse me, where is the bathroom?"
+      ],
+      "use": "The question everyone needs. 'Where is' is the pattern for the next three days.",
+      "formality": "Polite form. Some countries say 'toilet', some say 'restroom' — your teammate picks the local word.",
+      "reply": "Over there, on the left."
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "icon": "🚆",
+      "phrase": "Where is the train station?",
+      "buildup": [
+        "Where is",
+        "Where is the station?",
+        "Where is the train station?",
+        "Excuse me, where is the train station?"
+      ],
+      "use": "Same pattern as yesterday with a new noun. Swap in 'bus stop', 'airport', 'hotel'.",
+      "formality": "Polite form.",
+      "reply": "Straight ahead, then right."
+    },
+    {
+      "icon": "🔟",
+      "phrase": "Numbers 6 to 10",
+      "buildup": [
+        "Six, seven",
+        "Six, seven, eight",
+        "Six, seven, eight, nine, ten",
+        "Ten euros. Eight o'clock. Room seven."
+      ],
+      "use": "Finishes the set. From now on the prices and times in the replies are yours.",
+      "formality": "Neutral.",
+      "reply": "(Practice: your teammate says a price, you repeat it.)",
+      "day": 11,
+      "week": 2
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "icon": "🧭",
+      "phrase": "Left / Right / Straight ahead",
+      "buildup": [
+        "Left",
+        "Right",
+        "Straight ahead",
+        "Is it far?",
+        "Turn left, then straight ahead. It's not far."
+      ],
+      "use": "You'll HEAR these more than say them — they're the answer to yesterday's question. 'Is it far?' decides between walking and a taxi.",
+      "formality": "Neutral.",
+      "reply": "(You say:) Thank you!"
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "icon": "🎫",
+      "phrase": "A ticket to ___, please",
+      "buildup": [
+        "A ticket",
+        "A ticket, please",
+        "A ticket to Rome, please",
+        "Two tickets to Rome, please"
+      ],
+      "use": "Train or bus counter. Say the city name the local way if you can.",
+      "formality": "Polite form.",
+      "reply": "One way or return?"
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "icon": "🚌",
+      "phrase": "Is this the bus to ___?",
+      "buildup": [
+        "The bus",
+        "The bus to the airport",
+        "Is this the bus to the airport?"
+      ],
+      "use": "Ask the driver before you get on. Saves an hour going the wrong way.",
+      "formality": "Neutral.",
+      "reply": "Yes. / No, that one."
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "icon": "🛑",
+      "phrase": "Stop here, please",
+      "buildup": [
+        "Here",
+        "Stop here",
+        "Stop here, please",
+        "Here is fine, thank you"
+      ],
+      "use": "Taxi. Also 'the next stop, please' on a bus.",
+      "formality": "Polite form.",
+      "reply": "Okay.",
+      "culture": "In Italy and Spain, dinner starts late — eight or nine o'clock. Show up at six and the kitchen is closed."
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "icon": "🍽️",
+      "phrase": "A table for two, please",
+      "buildup": [
+        "A table",
+        "A table for two",
+        "A table for two, please",
+        "Good evening. A table for two, please."
+      ],
+      "use": "Walking into a restaurant. Change the number as needed.",
+      "formality": "Polite form.",
+      "reply": "Inside or outside?"
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "icon": "📖",
+      "phrase": "The menu, please",
+      "buildup": [
+        "The menu",
+        "The menu, please",
+        "The menu, please. In English, if you have it."
+      ],
+      "use": "If there's no English menu, the photo translator reads it for you.",
+      "formality": "Polite form.",
+      "reply": "Here you are."
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "icon": "🍝",
+      "phrase": "I would like ___",
+      "buildup": [
+        "I would like",
+        "I would like the pasta",
+        "I would like the pasta, please",
+        "For me, the pasta, please"
+      ],
+      "use": "Ordering. Point at the menu and say this — it works even if you can't pronounce the dish.",
+      "formality": "'I would like' is more polite than 'I want' in most languages.",
+      "reply": "And to drink?"
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "icon": "💧",
+      "phrase": "Water, please (still / sparkling)",
+      "buildup": [
+        "Water",
+        "Water, please",
+        "Still water, please",
+        "Sparkling water, please"
+      ],
+      "use": "Yesterday's reply was 'And to drink?' — this is your answer.",
+      "formality": "Neutral.",
+      "reply": "Still or sparkling?",
+      "culture": "In much of Europe the check never comes until you ask. In Japan you usually pay at the register, not at the table."
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "icon": "🧾",
+      "phrase": "The check, please",
+      "buildup": [
+        "The check",
+        "The check, please",
+        "Excuse me, the check, please"
+      ],
+      "use": "In many countries the waiter will NOT bring it until you ask.",
+      "formality": "Polite form. Your teammate will use the local word — 'bill' or 'check'.",
+      "reply": "Right away.",
+      "culture": "In markets, a smile and a slight pause after the price is normal. In shops, the price is the price."
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "icon": "💶",
+      "phrase": "How much is it?",
+      "buildup": [
+        "How much",
+        "How much is it?",
+        "How much is this?",
+        "How much for two?"
+      ],
+      "use": "Markets, taxis, anything without a price tag.",
+      "formality": "Neutral.",
+      "reply": "Fifteen.",
+      "culture": "Small cafés and market stalls in many countries are cash only. Ask before you order."
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "icon": "💳",
+      "phrase": "Do you take credit cards?",
+      "buildup": [
+        "Card",
+        "Credit card",
+        "Do you take credit cards?",
+        "Can I pay by card?"
+      ],
+      "use": "Ask BEFORE you order in small places.",
+      "formality": "Polite form.",
+      "reply": "Cash only. / Yes, of course.",
+      "culture": "In many countries the hotel keeps your passport for a few minutes at check-in. That's normal."
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "icon": "🏨",
+      "phrase": "I have a reservation",
+      "buildup": [
+        "A reservation",
+        "I have a reservation",
+        "Hello, I have a reservation. My name is ___."
+      ],
+      "use": "Hotel front desk and restaurants you booked ahead.",
+      "formality": "Polite form.",
+      "reply": "Your name, please?",
+      "culture": "Ask if breakfast is included. In Japan, 'breakfast' may mean rice and fish, not toast."
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "icon": "🥐",
+      "phrase": "What time is breakfast?",
+      "buildup": [
+        "What time",
+        "What time is breakfast?",
+        "What time is breakfast, and where?"
+      ],
+      "use": "Also works for 'What time is checkout?' and 'What time does it open?'",
+      "formality": "Polite form.",
+      "reply": "From seven to ten."
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "icon": "🆘",
+      "phrase": "Can you help me?",
+      "buildup": [
+        "Help",
+        "Can you help me?",
+        "Excuse me, can you help me, please?"
+      ],
+      "use": "Lost, confused, or the machine ate your ticket. Then open the translator.",
+      "formality": "Polite form.",
+      "reply": "Of course. What do you need?"
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "icon": "🔍",
+      "phrase": "I'm looking for ___",
+      "buildup": [
+        "I'm looking for",
+        "I'm looking for a pharmacy",
+        "I'm looking for a pharmacy. Is there one nearby?"
+      ],
+      "use": "Pharmacy, ATM, supermarket, my hotel. Swap the noun.",
+      "formality": "Neutral.",
+      "reply": "Yes, around the corner."
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "icon": "🛍️",
+      "phrase": "Do you have this in a smaller size?",
+      "buildup": [
+        "Smaller",
+        "A smaller size",
+        "Do you have this in a smaller size?",
+        "Do you have this in another color?"
+      ],
+      "use": "Shopping. Same pattern for 'bigger', 'another color', 'in blue'.",
+      "formality": "Polite form.",
+      "reply": "Let me check."
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "icon": "🩺",
+      "phrase": "I need a doctor",
+      "buildup": [
+        "A doctor",
+        "I need a doctor",
+        "I need a doctor. It's urgent.",
+        "Where is the hospital?"
+      ],
+      "use": "Say it first, then open the translator for the details.",
+      "formality": "Neutral. Learn it so well you can say it when you're scared.",
+      "reply": "Where does it hurt?"
+    },
+    {
+      "day": 29,
+      "week": 4,
+      "icon": "🚓",
+      "phrase": "Call the police",
+      "buildup": [
+        "The police",
+        "Call the police",
+        "Call the police, please. My bag was stolen."
+      ],
+      "use": "Also learn the local emergency number — your teammate knows it.",
+      "formality": "Neutral.",
+      "reply": "What happened?"
+    },
+    {
+      "day": 30,
+      "week": 4,
+      "icon": "🤝",
+      "phrase": "Goodbye / Nice to meet you",
+      "buildup": [
+        "Goodbye",
+        "Nice to meet you",
+        "Nice to meet you. Goodbye, and thank you!"
+      ],
+      "use": "The last thing they hear from you. End every exchange with it.",
+      "formality": "Polite form.",
+      "reply": "Goodbye! Have a good trip.",
+      "culture": "In France and Italy, saying goodbye when you leave a shop is as expected as hello when you enter."
+    }
+  ]
+}
